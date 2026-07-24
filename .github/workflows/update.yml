@@ -1,0 +1,26 @@
+name: Actualizar canales YouTube
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Cada 30 minutos
+  workflow_dispatch:          # También se puede lanzar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests
+
+      - name: Ejecutar script
+        env:
+          JSONBIN_API_KEY: ${{ secrets.JSONBIN_API_KEY }}
+        run: python update_channels.py
