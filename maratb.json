@@ -1,0 +1,69 @@
+{
+  "version": "1.0",
+  "canales": [
+    {
+      "nombre": "GUKA TV",
+      "categoria": "Euskal Herria",
+      "logo": "https://ekinsl.com/maratb/guka.png",
+      "url": "https://streaming.ukt.eus/hls/test.m3u8",
+      "tipo": "live"
+    },
+    {
+      "nombre": "Hamaika TV",
+      "categoria": "Euskal Herria",
+      "logo": "https://graph.facebook.com/HamaikaTb/picture?width=200&height=200",
+      "url": "https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8",
+      "tipo": "live"
+    },
+    {
+      "nombre": "Urola TV",
+      "categoria": "Euskal Herria",
+      "logo": "https://graph.facebook.com/urolatelebista/picture?width=200&height=200",
+      "url": "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8",
+      "tipo": "live"
+    },
+    {
+      "nombre": "Goiena Eus",
+      "categoria": "Euskal Herria",
+      "logo": "https://graph.facebook.com/goiena.eus/picture?width=200&height=200",
+      "url": "https://zuzenean.goienamedia.eus/goiena-telebista.m3u8",
+      "tipo": "live"
+    },
+    {
+      "nombre": "Pulpo Eskubaloia",
+      "categoria": "Kirola",
+      "logo": "https://ekinsl.com/maratb/pulpo.png",
+      "url": "NO_LIVE",
+      "tipo": "no_live"
+    },
+    {
+      "nombre": "San Pedro Parrokia",
+      "categoria": "Komunitatea",
+      "logo": "https://ekinsl.com/maratb/sanpedro.png",
+      "url": "NO_LIVE",
+      "tipo": "no_live"
+    },
+    {
+      "nombre": "Emanaldiak/Eventos",
+      "categoria": "Zuzenean",
+      "logo": "https://ekinsl.com/maratb/zuzenean.png",
+      "url": "NO_LIVE",
+      "tipo": "no_live"
+    },
+    {
+  "nombre": "Arrate Irratia",
+  "categoria": "Irratia",
+  "logo": "https://play-lh.googleusercontent.com/AWgxIb9V1Z6aIJQ6Mx98k8b7UbJbekd6NRjb849-MbATra820dBMfri8_hEgHNcnZd0=w200-h200",
+  "url": "https://online.arrateirratia.eus/zuzenean",
+  "tipo": "live",
+  "mime": "audio/aacp"
+    },
+    {
+      "nombre": "Naiz Irratia",
+      "categoria": "Irratia",
+      "logo": "https://graph.facebook.com/NAIZirratia/picture?width=200&height=200",
+      "url": "https://zuzenean.naiz.eus/naiz_irratia.mp3",
+      "tipo": "live"
+    }
+  ]
+}
