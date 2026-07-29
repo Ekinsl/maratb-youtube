@@ -54,7 +54,7 @@ CANALES_YOUTUBE = [
         "logo": "https://yt3.googleusercontent.com/sanpedro=s176-c-k-c0x00ffffff-no-rj",
     },
     {
-        "nombre": "7-Emanaldiak/Eventos",
+        "nombre": "Emanaldiak/Eventos",
         "categoria": "Gertakariak",
         "channel_id": "",
         "logo": "https://ekinsl.com/maratb/eventos.png",
