@@ -48,12 +48,6 @@ CANALES_YOUTUBE = [
         "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mCKsWDcFUWBOaHMFkJRLgFRBBqr7jFGY8IhNaOcA=s176-c-k-c0x00ffffff-no-rj",
     },
     {
-        "nombre": "Zumaiako FT",
-        "categoria": "Kirola",
-        "channel_id": "UCSrZ3UV4jOidv8ppoVuvW9Q",
-        "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
-    },
-    {
         "nombre": "San Pedro Parrokia",
         "categoria": "Komunitatea",
         "channel_id": "UCsanpedrozumaia",
