@@ -74,7 +74,8 @@ def get_youtube_live_url(channel_id):
         headers = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
         }
-        r = requests.get(watch_url, headers=headers, timeout=10)
+        cookies = {"CONSENT": "YES+1"}
+        r = requests.get(watch_url, headers=headers, cookies=cookies, timeout=10)
         hls_match = re.search(r'"hlsManifestUrl":"(https://[^"]+\.m3u8[^"]*)"', r.text)
         if hls_match:
             url = hls_match.group(1).replace("\\u0026", "&")
