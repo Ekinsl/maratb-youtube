@@ -80,7 +80,7 @@
       "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
       "url": "NO_LIVE",
       "tipo": "no_live",
-      "activo": true
+      "activo": False
     }
   ]
 }
