@@ -80,9 +80,9 @@
       "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
       "url": "https://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&mute=1&playsinline=1",
       "tipo": "youtube",
-      "notaInferior": "Datorren partida: abuztuak 12, larunbata, 17:00 - Zumaia FT vs Real Union",
-      "notaIntervaloMinutos": 3,
-      "notaDuracionSegundos": 15,
+      "notaInferior": "Cada 5 minutos",
+      "notaIntervaloMinutos": null,
+      "notaDuracionSegundos": null,
       "activo": true
     },
     {
