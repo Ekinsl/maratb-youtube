@@ -79,7 +79,8 @@
       "categoria": "Kirola",
       "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
       "url": "https://www.youtube.com/embed/54h8TxJyNy0?autoplay=1&start=2973&mute=1&playsinline=1",
-      "tipo": "live",
+      "tipo": "youtube",
+      "notaInferior": "Datorren partida: abuztuak 12, larunbata, 17:00 - Zumaia FT vs Real Union",
       "activo": true
     }
   ]
