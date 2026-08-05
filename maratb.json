@@ -78,12 +78,20 @@
       "nombre": "Zumaiako FT",
       "categoria": "Kirola",
       "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
-      "url": "https://www.youtube.com/embed/S3uMThLVNX8?start=4&autoplay=1&mute=1&playsinline=1",
+      "url": "https://www.youtube.com/embed/M7lc1UVf-VE?autoplay=1&mute=1&playsinline=1",
       "tipo": "youtube",
       "notaInferior": "Datorren partida: abuztuak 12, larunbata, 17:00 - Zumaia FT vs Real Union",
       "notaIntervaloMinutos": 3,
       "notaDuracionSegundos": 15,
       "activo": true
+    },
+    {
+      "nombre": "Getariako Keta FT",
+      "categoria": "Kirola",
+      "logo": "https://graph.facebook.com/100047539520093/picture?width=200&height=200",
+      "url": "NO_LIVE",
+      "tipo": "no_live",
+      "activo": false
     }
   ]
 }
