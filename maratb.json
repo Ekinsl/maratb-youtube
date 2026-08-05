@@ -80,9 +80,9 @@
       "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
       "url": "https://www.youtube.com/embed/S3uMThLVNX8?start=10&autoplay=1&mute=1&playsinline=1",
       "tipo": "youtube",
-      "notaInferior": "Cada 5 minutos",
-      "notaIntervaloMinutos": null,
-      "notaDuracionSegundos": 300,
+      "notaInferior": "ASte honetan berriz hau",
+      "notaIntervaloMinutos": 5,
+      "notaDuracionSegundos": 60,
       "activo": true
     },
     {
