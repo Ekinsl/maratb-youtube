@@ -82,7 +82,7 @@
       "tipo": "youtube",
       "notaInferior": "Cada 5 minutos",
       "notaIntervaloMinutos": null,
-      "notaDuracionSegundos": null,
+      "notaDuracionSegundos": 300,
       "activo": true
     },
     {
