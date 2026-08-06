@@ -80,9 +80,9 @@
       "logo": "https://graph.facebook.com/zumaiakofutboltaldea/picture?width=200&height=200",
       "url": "https://www.youtube.com/embed/7Ks0PklGhXE?start=10&autoplay=1&mute=1&playsinline=1",
       "tipo": "youtube",
-      "notaInferior": "ASte honetan berriz hau",
+      "notaInferior": "Datorren asteko partiduak hauek dira",
       "notaIntervaloMinutos": 5,
-      "notaDuracionSegundos": 60,
+      "notaDuracionSegundos": 300,
       "activo": true
     },
     {
