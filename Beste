@@ -1,0 +1,28 @@
+{
+  "canales": [
+    {
+      "nombre": "ETB Deportes (Kirolak 360) - 1",
+      "categoria": "Deportivos",
+      "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",
+      "url": "https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8",
+      "tipo": "live",
+      "activo": true
+    },
+    {
+      "nombre": "ETB Deportes (Kirolak 360) - 2",
+      "categoria": "Deportivos",
+      "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",
+      "url": "https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8",
+      "tipo": "live",
+      "activo": true
+    },
+    {
+      "nombre": "ETB Deportes (Kirolak 360) - 3",
+      "categoria": "Deportivos",
+      "logo": "https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200",
+      "url": "https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8",
+      "tipo": "live",
+      "activo": true
+    }
+  ]
+}
