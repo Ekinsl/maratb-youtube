@@ -83,7 +83,7 @@
       "notaInferior": "Datorren asteko partiduak hauek dira",
       "notaIntervaloMinutos": 5,
       "notaDuracionSegundos": 300,
-      "activo": False
+      "activo": false
     },
     {
       "nombre": "Getariako Keta FT",
